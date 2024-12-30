@@ -6,9 +6,16 @@
 .testimonials{
 	display:flex;
 	background-color:white;
-	padding:12px;
+	padding:10px;
 	border:1px solid black;
 	flex-direction:column;
+}
+.first{
+	margin-bottom:16px;
+}
+.first-div{
+	font-size:32px;
+	margin-bottom:16px;
 }
 
 .testimonials span{
