@@ -1,1 +1,17 @@
 /*  your css code here. If applicable */
+.container{
+	background-color:#f5f5f5;
+	padding:16px;
+}
+.testimonials{
+	display:flex;
+	background-color:white;
+	padding:12px;
+	border:1px solid black;
+	flex-direction:column;
+}
+
+.testimonials span{
+	text-align:right;
+	font-style:italic;
+}
